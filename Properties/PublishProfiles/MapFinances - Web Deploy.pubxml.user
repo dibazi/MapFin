@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnASIQ3kqGkeLlS3HUkyXCQAAAAACAAAAAAAQZgAAAAEAACAAAACU57xnAS7YSxGVEq5jInN/sVwwHGpuhJTyyboynxVPLwAAAAAOgAAAAAIAACAAAACdgomw7LX0Y+wDOTKG2Xksq6aW5EA0nhXJeuyuYhNgr4AAAACH5+c1dIjxl8fmnwv0mb3ahbNaeN7pUvD5tNbKb9ZcL4qCRSj7aBBeEI8phcUSC9bljm+7EoCRz0I0y2pU+OVmnHLWIo3MNE9TCwhtTH1L8ow7NV/NU/PFQugXFx19o+r+36zzLZE2n61NKOLwQHzGZw9LDPGPqA4AvG1u1jQ+r0AAAAA21SYvRSMT3MFbwedbBqjTzSholJwlIOHQ/87Z5Yrwe9A/GoGQn9brdMjOBwkU4Ptl8+uVo4uDcgMZhcvnQlAy</EncryptedPassword>
+    <History>True|2023-07-14T12:18:38.5340605Z;True|2023-07-14T13:18:24.0877958+02:00;False|2023-07-14T13:14:10.8907931+02:00;False|2023-07-14T13:08:36.7899994+02:00;False|2023-07-14T12:58:17.5621646+02:00;False|2023-07-14T12:46:36.1677776+02:00;False|2023-07-14T12:26:54.2059310+02:00;False|2023-07-14T12:16:10.9209919+02:00;True|2023-07-13T14:46:37.7437969+02:00;True|2023-07-13T14:05:18.8762807+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MapFin.Models.ApplicationDbContext">
+      <Value>Data Source=mapfindbserver.database.windows.net,1433%3bInitial Catalog=MapFin_db%3bUser ID=Thony%3bPassword=g%2aZVu4gh%25k+Jpt3</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

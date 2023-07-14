@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-07-13T12:33:55.5725504Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b09015c1-3831-4b21-8baa-996d20f4982c"
+    },
+    "MapFinances.subscriptionId": {
+      "Name": "MapFinances.subscriptionId",
+      "Type": "subscription",
+      "Value": "b09015c1-3831-4b21-8baa-996d20f4982c"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "MapFin202307ResourceGroup"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "b09015c1-3831-4b21-8baa-996d20f4982c"
+    },
+    "MapFinances.resourceName": {
+      "Name": "MapFinances.resourceName",
+      "Type": null,
+      "Value": "MapFinances"
+    },
+    "MapFinances.resourceGroupName": {
+      "Name": "MapFinances.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "MapFin202307ResourceGroup"
+    },
+    "MapFinances.resourceGroupLocation": {
+      "Name": "MapFinances.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    }
+  }
+}

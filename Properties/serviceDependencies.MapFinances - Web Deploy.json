@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/MapFinances/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDevConnecttion_18A0E12CF0",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mapfindbserver/databases/MapFin_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DevConnecttion",
+      "dynamicId": null
+    }
+  }
+}
